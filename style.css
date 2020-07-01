@@ -79,3 +79,64 @@ h1{
 .explore-work{
     text-align: center;
 }
+footer{
+    padding-top: 100px;
+    height: 750px;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+}
+.client-feedback{
+    text-align: center;
+    display:block;
+}
+.client-details h3{
+    text-align: center;
+    padding-top: 70px;
+    margin-bottom: 0;
+}
+.client-details p{
+    margin-top: 0;
+    text-align: center;
+    color: grey;
+}
+.p-hero{
+    text-decoration: none;
+    background-color: 	limegreen;
+    color: white;
+    padding: 2px;
+    border-radius: 5px;
+}
+.comment{
+    padding-top: 30px;
+}
+.comment p{
+    text-align: center;
+    color: #302e2e;
+    font-size: 20px;
+    font-weight: 500;
+    padding-bottom: 70px;
+    font-style: italic;
+}
+.e-mail{
+    background-image: linear-gradient(90deg, indigo, tomato);
+    width: 600px;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 15px 45px;
+}
+.e-mail a{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+}
+.e-mail p{
+    font-size: 18px;
+    font-weight: 300;
+}
+.e-mail h4{
+    font-size: 25px;
+}
+.end{
+    text-align: center;
+    margin-top: 165px;
+}
