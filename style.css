@@ -57,3 +57,25 @@ h1{
 .biography{
     padding: 170px 0px 0px 90px;
 }
+.work-area h1{
+    text-align: center;
+    display: block;
+}
+.image-wrapper{
+    float: left;
+    margin-left: 6.5%;
+    margin-bottom: 20px;
+}
+.image-wrapper img{
+    width: 350px;
+    padding: 20px;
+}
+.work-area{
+    padding-top: 115px;
+    height: 600px;
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.explore-work{
+    text-align: center;
+}
