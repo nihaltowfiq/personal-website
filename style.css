@@ -48,3 +48,12 @@ h1{
     padding-left: 10%;
     height: 750px;
 }
+.biography-area{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    height: 750px;
+    padding-left: 15%;
+}
+.biography{
+    padding: 170px 0px 0px 90px;
+}
